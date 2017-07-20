@@ -26,7 +26,7 @@ namespace Acme.CommonTest
 
             var product = new Product(2)
             {
-                ProductName = "Blue Labe;",
+                ProductName = "Blue Label",
                 ProductDescription = "Premium Blended Whiskey",
                 CurrentPrice = 6M
             };
